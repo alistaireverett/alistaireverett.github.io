@@ -1,6 +1,6 @@
 ---
-title: Fieldwork
-permalink: /fieldwork/
+title: template
+permalink: /temp/
 ---
 
 # Heading
