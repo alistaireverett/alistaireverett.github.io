@@ -1,5 +1,4 @@
 ---
-layout: single
 title: CV
 #image:
 #  feature: IMG_058.jpg
