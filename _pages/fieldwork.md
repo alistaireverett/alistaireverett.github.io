@@ -5,7 +5,7 @@ permalink: /fieldwork/
 
 ## Network of Sensors, Helheim Glacier, Greenland
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ns_gps_image.jpg){: .align-right width="100px"}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ns_gps_image.jpg){: .align-right width="500px"}
 
 {:width="100px"}
 
