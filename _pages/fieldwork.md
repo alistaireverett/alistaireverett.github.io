@@ -5,7 +5,7 @@ permalink: /fieldwork/
 
 ## Network of Sensors, Helheim Glacier, Greenland
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ns_gps_image.jpg =100x){: .align-right}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ns_gps_image.jpg =100x100){: .align-right}{:height="36px" width="36px"}
 
 I took part in two field campaigns in July and September 2013 during which we placed 20 GPS sensors on the surface of Helheim Glacier and collected oceanographic profiles from Sermilik Fjord.
 
