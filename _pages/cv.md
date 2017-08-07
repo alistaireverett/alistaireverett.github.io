@@ -1,5 +1,4 @@
 ---
-title: CV
 permalink: /cv/
 #image:
 #  feature: IMG_058.jpg

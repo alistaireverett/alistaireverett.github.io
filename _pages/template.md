@@ -1,5 +1,4 @@
 ---
-title: template
 permalink: /temp/
 ---
 
