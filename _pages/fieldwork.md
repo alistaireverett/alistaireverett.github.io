@@ -1,5 +1,5 @@
 ---
-title:
+title: Fieldwork
 permalink: /fieldwork/
 ---
 
