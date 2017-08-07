@@ -1,6 +1,6 @@
 ---
-title: 
-permalink: /Research/
+title: Research
+permalink: /research/
 ---
 
 Coming soon!
