@@ -416,9 +416,11 @@
 
       &:hover {
         text-decoration: underline;
-      }
-      &::after {
-        text-decoration: underline;
+
+        &:before,
+        &:after {    
+            text-decoration: underline;
+        }
       }
     }
   }
