@@ -416,12 +416,10 @@
 
       &:hover {
         text-decoration: underline;
-
-        &:before,
-        &:after {    
-            text-decoration: underline;
-        }
       }
+    }
+    .active{
+      text-decoration: underline;
     }
   }
 }
