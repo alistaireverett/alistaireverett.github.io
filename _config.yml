@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Alistair Everett"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Glaciologist at Norwegian Polar Insitute"
+  bio              : "Glaciologist at Norwegian Polar Institute"
   location         : "Tromsø, Norway"
   email            : "alistair.everett@npolar.no"
   uri              :
