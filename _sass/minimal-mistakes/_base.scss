@@ -112,9 +112,9 @@ blockquote {
 /* links */
 
 a {
-  &:focus {
-    @extend %tab-focus;
-  }
+  // &:focus {
+  //   @extend %tab-focus;
+  // }
 
   &:hover,
   &:active {
