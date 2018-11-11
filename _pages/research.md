@@ -9,4 +9,4 @@ Publications and published datasets are listed below.
 
 ## Publications
 
-<p><script src="http://bibbase.org/show?bib=http://alistaireverett.github.io/assets/extras/pubs.bib&jsonp=1"></script></p>
+<p><script src="https://bibbase.org/show?bib=https://alistaireverett.github.io/assets/extras/pubs.bib&jsonp=1"></script></p>
