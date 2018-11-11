@@ -1,10 +1,6 @@
 ---
 title: CV
 permalink: /cv/
-#image:
-#  feature: IMG_058.jpg
-#  credit: 
-#  creditlink: 
 comments: false
 ---
 
@@ -15,4 +11,3 @@ comments: false
       No problem, you can download my CV <a href="/assets/extras/AlistairEverettCV.pdf">here</a>.</p>
   </object>
 </div>
-
