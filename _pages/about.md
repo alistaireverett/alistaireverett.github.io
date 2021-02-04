@@ -3,6 +3,8 @@ title:  About
 permalink: /about/
 ---
 
+**Note**: I am now a **software engineer** at the **Norwegian Meteorological Institute**. The text below and research pages refer to previous positions at the **Norwegian Polar Insitute** and will be updated soon.
+
 I am a **research scientist** studying **ice-ocean interactions** at **marine-terminating glaciers**. 
 
 I use a combination of **modelling**, **remote sensing** and whatever **field data** I can get my hands on to improve our understanding of feedbacks between **glaciers** and **oceans**. 

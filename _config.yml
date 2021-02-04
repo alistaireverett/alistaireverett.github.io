@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Alistair Everett"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Research Scientist at Norwegian Polar Institute"
+  bio              : "Software Engineer at Norwegian Meteorological Institute"
   location         : "Tromsø, Norway"
-  email            : "alistair.everett@npolar.no"
+  email            : "alistair.everett@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
